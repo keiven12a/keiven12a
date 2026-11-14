@@ -32,18 +32,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Studying **Software Engineering** at **Mekelle University**.
-- 🚀 Improving my **full-stack development** skills.
-- 🛠️ Learning by building practical software projects.
-- 🤝 Interested in teamwork, collaboration, and problem-solving.
-- 🎯 Working toward becoming a professional **Full-Stack Developer**.
-- 🌍 Based in **Ethiopia**.
+-  Studying **Software Engineering** at **Mekelle University**.
+-  Improving my **full-stack development** skills.
+-  Learning by building practical software projects.
+-  Interested in teamwork, collaboration, and problem-solving.
+-  Working toward becoming a professional **Full-Stack Developer**.
+-  Based in **Ethiopia**.
 
 ---
 
-## 🧰 Technologies & Tools
+##  Technologies & Tools
 
 ### Languages
 <p>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=keiven12a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B7FF&icon_color=00B7FF&text_color=E6EDF3" alt="Kibrealem's GitHub statistics" />
@@ -82,7 +82,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 I'm learning by building practical applications. Visit my repositories to explore my work:
 
@@ -94,7 +94,7 @@ I'm learning by building practical applications. Visit my repositories to explor
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="mailto:kibrealem83@gmail.com">
