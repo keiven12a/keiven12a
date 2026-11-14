@@ -90,7 +90,7 @@ I’m a Software Engineering student at **Mekelle University**, passionate about
 ---
 
 
-## 🌐 Follow Me
+##  Follow Me
 
 <div align="center">
 
