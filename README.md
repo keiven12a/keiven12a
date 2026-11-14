@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020817,35:063B70,70:0077CC,100:00D4FF&text=KIBREALEM%20GEBRETSNAE&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Neon blue developer banner" />
 
   <h1>Hi, I'm Kibrealem 👋</h1>
-  <h3>🎓 Software Engineering Student | Aspiring Full-Stack Developer</h3>
+  <h3> Software Engineering Student | Aspiring Full-Stack Developer</h3>
 
   <p>
     Building useful software, exploring new technologies, and turning ideas into practical projects.
@@ -37,12 +37,12 @@
 
 ## <img src="https://img.icons8.com/3d-fluency/32/user-male-circle.png" width="28" align="center" alt="About icon" /> About Me
 
-- 🎓 Software Engineering student at **Mekelle University**.
-- 💻 Interested in **Full-Stack Development** and software design.
-- 🚀 Improving my skills through practical software projects.
-- 🤝 Enjoy teamwork, collaboration, and solving real-world problems.
-- 🌍 Based in **Ethiopia**.
-- 🎯 My goal is to grow into a professional Full-Stack Developer.
+-  Software Engineering student at **Mekelle University**.
+-  Interested in **Full-Stack Development** and software design.
+-  Improving my skills through practical software projects.
+-  Enjoy teamwork, collaboration, and solving real-world problems.
+-  Based in **Ethiopia**.
+-  My goal is to grow into a professional Full-Stack Developer.
 
 ---
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-  <h3>💻 Programming Languages</h3>
+  <h3> Programming Languages</h3>
   <table>
     <tr>
       <td align="center" width="140">
@@ -72,7 +72,7 @@
     </tr>
   </table>
 
-  <h3>🌐 Web & Frameworks</h3>
+  <h3> Web & Frameworks</h3>
   <table>
     <tr>
       <td align="center" width="140">
@@ -104,7 +104,7 @@
     </tr>
   </table>
 
-  <h3>🗄️ Databases & Developer Tools</h3>
+  <h3> Databases & Developer Tools</h3>
   <table>
     <tr>
       <td align="center" width="140">
