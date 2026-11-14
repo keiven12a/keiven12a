@@ -17,15 +17,15 @@ I’m a Software Engineering student at **Mekelle University**, passionate about
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Studying **Software Engineering** at Mekelle University.
-- 🌱 Improving my **full-stack development** skills.
-- 💻 Learning by building practical software projects.
-- 🤝 Interested in teamwork and collaboration.
-- 🎯 Working toward becoming a professional **Full-Stack Developer**.
+-  Studying **Software Engineering** at Mekelle University.
+-  Improving my **full-stack development** skills.
+-  Learning by building practical software projects.
+-  Interested in teamwork and collaboration.
+-  Working toward becoming a professional **Full-Stack Developer**.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,20 +52,20 @@ I’m a Software Engineering student at **Mekelle University**, passionate about
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ✈️ Airline Booking System
+###  Airline Booking System
 A software project focused on airline reservations and booking management.
 
-### 🌐 Personal Portfolio Website
+###  Personal Portfolio Website
 A website to showcase my skills, projects, and progress.
 
-### 📇 Contact Management System
+###  Contact Management System
 A C++ project for managing contact information and practicing data structures.
 
 > You can add links to each project by editing the project headings, for example: `[Airline Booking System](https://github.com/keiven12a/REPOSITORY-NAME)`.
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Full-stack web development
 - REST APIs and database integration
@@ -73,7 +73,7 @@ A C++ project for managing contact information and practicing data structures.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -84,7 +84,7 @@ A C++ project for managing contact information and practicing data structures.
 
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -92,7 +92,7 @@ A C++ project for managing contact information and practicing data structures.
 
 </div>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -102,7 +102,7 @@ A C++ project for managing contact information and practicing data structures.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **Email:** [kibrealem83@gmail.com](mailto:kibrealem83@gmail.com)
 - **GitHub:** [github.com/keiven12a](https://github.com/keiven12a)
@@ -112,7 +112,7 @@ A C++ project for managing contact information and practicing data structures.
 
 <div align="center">
 
-### 💡 “Learn • Build • Create”
+###  “Learn • Build • Create”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Decorative footer" />
 
