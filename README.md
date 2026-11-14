@@ -152,23 +152,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,spring,django,nodejs,php,mysql,postgres,git,github,vscode&theme=dark" alt="Java, JavaScript, C++, HTML, CSS, React, Spring, Django, Node.js, PHP, MySQL, PostgreSQL, Git, GitHub, and VS Code" />
 </div>
 
----
-
-## <img src="https://img.icons8.com/3d-fluency/32/rocket.png" width="28" align="center" alt="Projects icon" /> Featured Project
-
-<div align="center">
-  <a href="https://github.com/keiven12a/Airline-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keiven12a&repo=Airline-Booking-System&hide_border=true&bg_color=071426&title_color=00C8FF&icon_color=00C8FF&text_color=EAF6FF" alt="Airline Booking System repository" />
-  </a>
-</div>
-
-<p align="center">
-  Explore more of my work in
-  <a href="https://github.com/keiven12a?tab=repositories">my GitHub repositories</a>.
-</p>
-
----
-
 ## <img src="https://img.icons8.com/3d-fluency/32/handshake.png" width="28" align="center" alt="Connect icon" /> Let's Connect
 
 <div align="center">
@@ -185,7 +168,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/kibrealemtech">
-    <img src="https://img.icons8.com/3d-fluency/48/facebook.png" width="42" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="42" alt="Facebook" />
   </a>
 </div>
 
