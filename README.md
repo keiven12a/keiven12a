@@ -16,7 +16,7 @@
   </p>
 
   <a href="https://github.com/keiven12a">
-    <img src="https://img.shields.io/badge/GitHub-keiven12a-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-keiven12a-101827?style=for-the-badge&logo=github&logoColor=red" alt="GitHub profile" />
   </a>
   <a href="mailto:kibrealem83@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kibrealem" />
