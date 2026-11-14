@@ -89,13 +89,28 @@ I’m a Software Engineering student at **Mekelle University**, passionate about
 
 ---
 
-##  Connect With Me
 
-- **Email:** [kibrealem83@gmail.com](mailto:kibrealem83@gmail.com)
-- **GitHub:** [github.com/keiven12a](https://github.com/keiven12a)
-- **LinkedIn:** [linkedin.com/in/kibrealem-gebretsnae](https://www.linkedin.com/in/kibrealem-gebretsnae)
-- **YouTube:** [@KibrealemTech](https://www.youtube.com/@KibrealemTech)
-- **Facebook:** [kibrealemtech](https://www.facebook.com/kibrealemtech)
+## 🌐 Follow Me
+
+<div align="center">
+
+<a href="mailto:kibrealem83@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/keiven12a">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kibrealem-gebretsnae">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@KibrealemTech">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/kibrealemtech">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
 
 <div align="center">
 
