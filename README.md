@@ -108,15 +108,15 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://img.icons8.com/3d-fluency/96/mysql-logo.png" width="76" height="76" alt="MySQL 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="76" height="76" alt="MySQL 3D icon" /><br />
         <b>MySQL</b>
       </td>
       <td align="center" width="140">
-        <img src="https://img.icons8.com/3d-fluency/96/postgresql.png" width="76" height="76" alt="PostgreSQL 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="76" height="76" alt="PostgreSQL 3D icon" /><br />
         <b>PostgreSQL</b>
       </td>
       <td align="center" width="140">
-        <img src="https://img.icons8.com/3d-fluency/96/git.png" width="76" height="76" alt="Git 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="76" height="76" alt="Git 3D icon" /><br />
         <b>Git</b>
       </td>
       <td align="center" width="140">
@@ -124,7 +124,7 @@
         <b>GitHub</b>
       </td>
       <td align="center" width="140">
-        <img src="https://img.icons8.com/3d-fluency/96/visual-studio-code-2019.png" width="76" height="76" alt="Visual Studio Code 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="76" height="76" alt="Visual Studio Code 3D icon" /><br />
         <b>VS Code</b>
       </td>
     </tr>
