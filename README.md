@@ -16,15 +16,15 @@
   </p>
 
   <a href="https://github.com/keiven12a">
-    <img src="https://img.shields.io/badge/GitHub-keiven12a-101827?style=for-the-badge&logo=github&logoColor=red" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-keiven12a-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="mailto:kibrealem83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kibrealem" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Kibrealem" />
   </a>
   
   </a>
   <a href="https://www.linkedin.com/in/kibrealem-gebretsnae">
-    <img src="https://img.shields.io/badge/LinkedIn-Kibrealem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kibrealem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=sky" alt="LinkedIn" />
   </a>
 
 
