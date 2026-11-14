@@ -19,14 +19,17 @@
     <img src="https://img.shields.io/badge/GitHub-keiven12a-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="mailto:kibrealem83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Kibrealem" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kibrealem" />
   </a>
-  
+  <a href="https://www.youtube.com/@KibrealemTech">
+    <img src="https://img.shields.io/badge/YouTube-KibrealemTech-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/kibrealem-gebretsnae">
-    <img src="https://img.shields.io/badge/LinkedIn-Kibrealem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=sky" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kibrealem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="https://www.facebook.com/kibrealemtech">
+    <img src="https://img.shields.io/badge/Facebook-kibrealemtech-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 
 </div>
 
@@ -47,29 +50,87 @@
 
 <div align="center">
 
-  <p><b>Programming Languages</b></p>
-  <img src="https://img.icons8.com/3d-fluency/80/java-coffee-cup-logo.png" height="76" alt="Java" />
-  <img src="https://img.icons8.com/3d-fluency/80/javascript.png" height="76" alt="JavaScript" />
-  <img src="https://img.icons8.com/3d-fluency/80/c-plus-plus-logo.png" height="76" alt="C++" />
+  <h3>💻 Programming Languages</h3>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" width="76" height="76" alt="Java 3D icon" /><br />
+        <b>Java</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/javascript.png" width="76" height="76" alt="JavaScript 3D icon" /><br />
+        <b>JavaScript</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/c-plus-plus-logo.png" width="76" height="76" alt="C++ 3D icon" /><br />
+        <b>C++</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/php.png" width="76" height="76" alt="PHP 3D icon" /><br />
+        <b>PHP</b>
+      </td>
+    </tr>
+  </table>
 
-  <p><b>Web & Frameworks</b></p>
-  <img src="https://img.icons8.com/3d-fluency/80/html-5.png" height="76" alt="HTML5" />
-  <img src="https://img.icons8.com/3d-fluency/80/css3.png" height="76" alt="CSS3" />
-  <img src="https://img.icons8.com/3d-fluency/80/react.png" height="76" alt="React" />
-  <img src="https://img.icons8.com/3d-fluency/80/spring-logo.png" height="76" alt="Spring Boot" />
-  <img src="https://img.icons8.com/3d-fluency/80/django.png" height="76" alt="Django" />
-  <img src="https://img.icons8.com/3d-fluency/80/node-js.png" height="76" alt="Node.js" />
+  <h3>🌐 Web & Frameworks</h3>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/html-5.png" width="76" height="76" alt="HTML5 3D icon" /><br />
+        <b>HTML5</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/css3.png" width="76" height="76" alt="CSS3 3D icon" /><br />
+        <b>CSS3</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/react.png" width="76" height="76" alt="React 3D icon" /><br />
+        <b>React</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/spring-logo.png" width="76" height="76" alt="Spring Boot 3D icon" /><br />
+        <b>Spring Boot</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/django.png" width="76" height="76" alt="Django 3D icon" /><br />
+        <b>Django</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/node-js.png" width="76" height="76" alt="Node.js 3D icon" /><br />
+        <b>Node.js</b>
+      </td>
+    </tr>
+  </table>
 
-  <p><b>Databases & Developer Tools</b></p>
-  <img src="https://img.icons8.com/3d-fluency/80/mysql-logo.png" height="76" alt="MySQL" />
-  <img src="https://img.icons8.com/3d-fluency/80/postgreesql.png" height="76" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/3d-fluency/80/php.png" height="76" alt="PHP" />
-  <img src="https://img.icons8.com/3d-fluency/80/git.png" height="76" alt="Git" />
-  <img src="https://img.icons8.com/3d-fluency/80/github.png" height="76" alt="GitHub" />
-  <img src="https://img.icons8.com/3d-fluency/80/visual-studio-code-2019.png" height="76" alt="Visual Studio Code" />
+  <h3>🗄️ Databases & Developer Tools</h3>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/mysql-logo.png" width="76" height="76" alt="MySQL 3D icon" /><br />
+        <b>MySQL</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/postgresql.png" width="76" height="76" alt="PostgreSQL 3D icon" /><br />
+        <b>PostgreSQL</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/git.png" width="76" height="76" alt="Git 3D icon" /><br />
+        <b>Git</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/github.png" width="76" height="76" alt="GitHub 3D icon" /><br />
+        <b>GitHub</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/3d-fluency/96/visual-studio-code-2019.png" width="76" height="76" alt="Visual Studio Code 3D icon" /><br />
+        <b>VS Code</b>
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 ---
 
 ## <img src="https://img.icons8.com/3d-fluency/32/combo-chart.png" width="28" align="center" alt="Stats icon" /> GitHub Stats
