@@ -52,19 +52,6 @@ I’m a Software Engineering student at **Mekelle University**, passionate about
 
 ---
 
-##  Featured Projects
-
-###  Airline Booking System
-A software project focused on airline reservations and booking management.
-
-###  Personal Portfolio Website
-A website to showcase my skills, projects, and progress.
-
-###  Contact Management System
-A C++ project for managing contact information and practicing data structures.
-
-> You can add links to each project by editing the project headings, for example: `[Airline Booking System](https://github.com/keiven12a/REPOSITORY-NAME)`.
-
 ##  Currently Learning
 
 - Full-stack web development
