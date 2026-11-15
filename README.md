@@ -50,7 +50,7 @@
   <h3> Programming Languages</h3>
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" width="50" height="50" alt="Java 3D icon" /><br />
         <b>Java</b>
       </td>
