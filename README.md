@@ -72,27 +72,27 @@
   <h3> Web & Frameworks</h3>
   <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" /><br />
       <b>HTML5</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br />
       <b>CSS3</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /><br />
       <b>React</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br />
       <b>Spring Boot</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django" /><br />
       <b>Django</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br />
       <b>Node.js</b>
     </td>
@@ -102,23 +102,23 @@
   <h3> Databases & Developer Tools</h3>
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL 3D icon" /><br />
         <b>MySQL</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL 3D icon" /><br />
         <b>PostgreSQL</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git 3D icon" /><br />
         <b>Git</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://img.icons8.com/3d-fluency/96/github.png" width="40" height="40" alt="GitHub 3D icon" /><br />
         <b>GitHub</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code 3D icon" /><br />
         <b>VS Code</b>
       </td>
