@@ -71,35 +71,33 @@
 
   <h3> Web & Frameworks</h3>
   <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5 3D icon" /><br />
-        <b>HTML5</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 3D icon" /><br />
-        <b>CSS3</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React 3D icon" /><br />
-        <b>React</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot 3D icon" /><br />
-        <b>Spring Boot</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django 3D icon" /><br />
-        <b>Django</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js 3D icon" /><br />
-        <b>Node.js</b>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" /><br />
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br />
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /><br />
+      <b>React</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br />
+      <b>Spring Boot</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django" /><br />
+      <b>Django</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br />
+      <b>Node.js</b>
+    </td>
+  </tr>
+</table>
 
   <h3> Databases & Developer Tools</h3>
   <table>
