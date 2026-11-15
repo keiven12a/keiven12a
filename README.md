@@ -54,15 +54,15 @@
         <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" width="50" height="50" alt="Java 3D icon" /><br />
         <b>Java</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript 3D icon" /><br />
         <b>JavaScript</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="76" height="76" alt="C++ 3D icon" /><br />
         <b>C++</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/php/777BB4" width="76" height="76" alt="PHP 3D icon" /><br />
         <b>PHP</b>
       </td>
@@ -72,29 +72,29 @@
   <h3> Web & Frameworks</h3>
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/html5/E34F26" width="76" height="76" alt="HTML5 3D icon" /><br />
         <b>HTML5</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/css3-icon.png?" width="76" height="76" alt="CSS3 3D icon" /><br />
         <b>CSS3</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" width="76" height="76" alt="React 3D icon" /><br />
         <b>React</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="76" height="76" alt="Spring Boot 3D icon" /><br />
         <b>Spring Boot</b>
       </td>
     </tr>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="76" height="76" alt="Django 3D icon" /><br />
         <b>Django</b>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="76" height="76" alt="Node.js 3D icon" /><br />
         <b>Node.js</b>
       </td>
