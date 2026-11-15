@@ -132,7 +132,7 @@
 
 <p align="center">
   <img src="https://keiven-github-stats.vercel.app/api?username=keiven12a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiven12a&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://keiven-github-stats.vercel.app/api/top-langs/?username=keiven12a&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
