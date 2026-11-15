@@ -130,10 +130,6 @@
 
 ## <img src="https://img.icons8.com/3d-fluency/32/combo-chart.png" width="28" align="center" alt="Stats icon" /> GitHub Stats
 
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=keiven12a&show_icons=true&hide_border=true&bg_color=071426&title_color=00C8FF&icon_color=00C8FF&text_color=EAF6FF&rank_icon=github" alt="Kibrealem's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiven12a&layout=compact&hide_border=true&bg_color=071426&title_color=00C8FF&text_color=EAF6FF" alt="Most used languages" />
-</div>
 
 <div align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=keiven12a&hide_border=true&background=071426&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BB4CC" alt="GitHub contribution streak" />
