@@ -51,7 +51,7 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" width="76" height="76" alt="Java 3D icon" /><br />
+        <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" width="50" height="50" alt="Java 3D icon" /><br />
         <b>Java</b>
       </td>
       <td align="center" width="140">
