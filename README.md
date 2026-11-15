@@ -55,7 +55,7 @@
         <b>Java</b>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="76" height="76" alt="JavaScript 3D icon" /><br />
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript 3D icon" /><br />
         <b>JavaScript</b>
       </td>
       <td align="center" width="140">
