@@ -126,42 +126,20 @@
   </table>
 
 </div>
----
-
-## <img src="https://img.icons8.com/3d-fluency/32/combo-chart.png" width="28" align="center" alt="Stats icon" /> GitHub Stats
 
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Statistics
 
-<h2 align="center">🚀 GITHUB AT A GLANCE</h2>
+<p align="center">
+  <img src="https://keiven-github-stats.vercel.app/api?username=keiven12a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiven12a&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+</p>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+## 🔥 Contribution Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=keiven12a&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="GitHub Statistics"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiven12a&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="100%" alt="Most Used Languages"/>
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=keiven12a&theme=dark&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" width="90%" alt="GitHub Contribution Streak"/>
-
-</div>
-
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=keiven12a&hide_border=true&background=071426&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BB4CC" alt="GitHub contribution streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiven12a&theme=tokyonight" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
