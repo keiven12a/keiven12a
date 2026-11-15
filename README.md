@@ -77,11 +77,11 @@
         <b>HTML5</b>
       </td>
       <td align="center" width="140">
-        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/css3-icon.png?" width="40" height="40" alt="CSS3 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 3D icon" /><br />
         <b>CSS3</b>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" width="40" height="40" alt="React 3D icon" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React 3D icon" /><br />
         <b>React</b>
       </td>
       <td align="center" width="140">
