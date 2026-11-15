@@ -131,6 +131,16 @@
 ## <img src="https://img.icons8.com/3d-fluency/32/combo-chart.png" width="28" align="center" alt="Stats icon" /> GitHub Stats
 
 
+<h2 align="center">GITHUB AT A GLANCE</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/keiven12a/minimal-github-stats/main/assets/github-stats.svg"
+    width="100%"
+    alt="Kibrealem's GitHub Statistics"
+  />
+</div>
+
 <div align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=keiven12a&hide_border=true&background=071426&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BB4CC" alt="GitHub contribution streak" />
 </div>
