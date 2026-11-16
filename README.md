@@ -8,7 +8,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020817,35:063B70,70:0077CC,100:00D4FF&text=KIBREALEM%20GEBRETSNAE&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Neon blue developer banner" />
 
-  <h1>Hi, I'm Kibrealem 👋</h1>
+  <h1>Hi, I'm Kibrealem </h1>
   <h3> Software Engineering Student | Aspiring Full-Stack Developer</h3>
 
   <p>
